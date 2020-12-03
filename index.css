@@ -1,0 +1,212 @@
+
+
+body {
+	font-family: Roboto Mono;
+	text-align: center;
+	margin: 0%;
+}
+
+header {
+	padding-top:2em;
+	width:80% auto;
+}
+
+ul {
+	list-style:none;
+	margin: 0;
+}
+
+
+li {
+	display: inline-block;
+	justify-content: center;
+	margin: 50pt;	
+	
+	
+}
+
+
+
+
+#PY {
+	background-color:#FF764E;
+	border-radius: 1.2em;
+	padding: 1.4em;
+	
+	
+}
+
+#LP {
+	background-color:#5ED3EB;
+	border-radius: 1.2em;
+	padding: 1.4em;
+	
+	
+}
+
+#GI {
+	background-color:#FFCD69;
+	border-radius: 1.2em;
+	padding: 1.4em;
+	
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	width: 125px;
+}
+
+
+a#PY:hover {
+	color:#FF764E;
+	background-color: white;
+}
+
+
+a#LP:hover {
+	color:#5ED3EB;
+	background-color: white;
+}
+
+a#GI:hover {
+	color:#FFCD69;
+	background-color: white;
+}
+
+
+
+#circle {
+	width: 300px;
+	height: 300px;
+	display: inline-block;
+	overflow: hidden;
+	position: relative;
+	border-radius: 50%;
+}
+
+.top {
+	display: inline;
+	margin: 0 auto;
+	height: 100%;
+	width: auto;
+}
+
+h1 {
+	font-size: 50pt;
+	font-family:Chelsea Market;
+	
+	
+}
+
+
+
+.first {
+	padding: 3em 0 3em 5em;
+	display: inline-block;
+	
+	
+}
+
+section {
+	margin: 0 auto;
+	font-size: 14pt ;
+	text-align: center;
+	
+}
+#open {
+	width: 24em;
+	
+	padding-bottom: 20px;
+	
+}
+
+
+
+p {
+	margin: 0 auto;
+}
+
+
+
+.second {
+	background-color: #DDB9A3;
+	margin: 0 auto;
+	width: 69em;
+	height: 6.6em;
+	font-size: 14pt;
+	padding: 20px 20px 75px 20px;
+	color: white;
+}
+.center {
+	width: 1200px;
+	height: 80px;
+	word-spacing: 2px;
+}
+
+
+
+
+.third {
+	margin: 0 auto;
+}
+
+.third img {
+	width: 10em;
+	height: auto;
+	padding-top: 30px;
+	
+}
+
+.info {	
+	padding-bottom: 70px;
+	width: 260px;
+	height: 150px;
+}
+
+
+#fourth {
+	height: 350px;
+	width: auto;
+	margin: 0 auto;
+	overflow: hidden;
+}
+	
+
+.bot {
+	height: auto;
+	width: 100%;
+	overflow: hidden;
+	margin-top: -07%;
+	display: block;
+
+}
+
+
+
+
+
+#last {
+	display:block;
+	margin: 0 auto;
+	background-color: #F9E7DC;
+}
+
+footer #PY:hover {
+	color:black;
+	background-color: #F9E7DC;
+}
+
+
+footer #LP:hover {
+	color:black;
+	background-color: #F9E7DC;
+}
+
+footer #GI:hover {
+	color:black;
+	background-color: #F9E7DC;
+}
+
+
+
